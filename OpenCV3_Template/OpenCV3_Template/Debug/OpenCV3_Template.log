@@ -1,0 +1,4 @@
+﻿  OpenCV3_Template.cpp
+OpenCV3_Template.obj : error LNK2019: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ) referenced in function "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ)
+D:\Programs\opencv\build\x64\vc15\lib\opencv_world342d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\PanDaR\source\repos\OpenCV3_Template\Debug\OpenCV3_Template.exe : fatal error LNK1120: 1 unresolved externals
