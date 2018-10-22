@@ -3,12 +3,13 @@ Final code of spring displacement measurement system for scrum machine force mea
 
 All code is completed and run in Microsoft Visual Studio 2017 in C++ using the OpenCV libraries.
 
-NOTE: The code makes use of the opencv_cotrib files (the OpenCV library folder uploaded contains the contrib folder already)
+NOTE: The code makes use of the opencv_cotrib files.
 
 Detailed instructions for setting up microsoft visual studio to use the OpenCV libraies can be found in the link below.
 https://www.deciphertechnic.com/install-opencv-with-visual-studio/
 
-All OpenCV files required are uploaded along with the code.
+For a video guide, use the youtube link below:
+https://www.youtube.com/watch?v=l_4fNNyk1aw&list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP&index=1
 
 To run the code, either a webcam needs to be installed or a saved video must be used. A demo video clip has also been uploaded and the
 code has been set to run the demo video.
